@@ -1,0 +1,10 @@
+{
+    "development": {
+      "apiUrl": "https://atrispina.stream",
+      "contentApiKey": "100cea2c2958f98d14e2336240"
+    },
+    "production": {
+      "apiUrl": "https://atrispina.stream",
+      "contentApiKey": "100cea2c2958f98d14e2336240"
+    }
+  }

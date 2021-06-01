@@ -1,4 +1,4 @@
-# Gatsby Starter Ghost
+# Using Gatsby starter for Ghost in a Azure Static Web App
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
 

@@ -1262,7 +1262,7 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./plugins/gatsby-plugin-ghost-manifest/gatsby-ssr */ "./plugins/gatsby-plugin-ghost-manifest/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "short_name": "Ghost",
+    "short_name": "AzureAtrispina",
     "start_url": "/",
     "background_color": "#e9e9e9",
     "theme_color": "#15171A",
@@ -10090,24 +10090,24 @@ module.exports = withSideEffect;
 /***/ }),
 
 /***/ "react-dom/server":
-/*!***************************************************************************************************!*\
-  !*** external "/home/alex/ezaz/gatrispina/gatsby-starter-ghost/node_modules/react-dom/server.js" ***!
-  \***************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** external "/home/alex/ezaz/gatrispina/azhaunty/hauntedazurehouse/node_modules/react-dom/server.js" ***!
+  \*********************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/alex/ezaz/gatrispina/gatsby-starter-ghost/node_modules/react-dom/server.js");;
+module.exports = require("/home/alex/ezaz/gatrispina/azhaunty/hauntedazurehouse/node_modules/react-dom/server.js");;
 
 /***/ }),
 
 /***/ "react":
-/*!**********************************************************************************************!*\
-  !*** external "/home/alex/ezaz/gatrispina/gatsby-starter-ghost/node_modules/react/index.js" ***!
-  \**********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** external "/home/alex/ezaz/gatrispina/azhaunty/hauntedazurehouse/node_modules/react/index.js" ***!
+  \****************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/alex/ezaz/gatrispina/gatsby-starter-ghost/node_modules/react/index.js");;
+module.exports = require("/home/alex/ezaz/gatrispina/azhaunty/hauntedazurehouse/node_modules/react/index.js");;
 
 /***/ }),
 
