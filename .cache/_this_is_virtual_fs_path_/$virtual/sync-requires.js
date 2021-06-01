@@ -4,7 +4,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/home/alex/ezaz/gatrispina/azhaunty/hauntedazurehouse/.cache/dev-404-page.js")),
+  "component---cache-caches-gatsby-plugin-offline-app-shell-js": preferDefault(require("/home/alex/ezaz/gatrispina/azhaunty/hauntedazurehouse/.cache/caches/gatsby-plugin-offline/app-shell.js")),
   "component---src-pages-404-js": preferDefault(require("/home/alex/ezaz/gatrispina/azhaunty/hauntedazurehouse/src/pages/404.js")),
   "component---src-templates-author-js": preferDefault(require("/home/alex/ezaz/gatrispina/azhaunty/hauntedazurehouse/src/templates/author.js")),
   "component---src-templates-index-js": preferDefault(require("/home/alex/ezaz/gatrispina/azhaunty/hauntedazurehouse/src/templates/index.js")),
